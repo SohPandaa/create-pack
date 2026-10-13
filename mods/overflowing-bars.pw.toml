@@ -1,6 +1,6 @@
 name = "Overflowing Bars"
 filename = "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
