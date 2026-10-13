@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "4b07c0a7efaf8e7b184f1052f1d020ae25b2a5bd4ef35f685b1fd1367b84ae9b"
+hash = "321dba443268b96b71b77b4d0b93a20d4e92379de7ca4daf68d0dfdf2e01ec4e"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "EMF Compat: Core"
 filename = "emf_compat_core_neoforge_1.21.1_2.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/hbGct5uU/versions/esEPP7KY/emf_compat_core_neoforge_1.21.1_2.3.0.jar"
