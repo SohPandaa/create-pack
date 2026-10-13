@@ -10,11 +10,6 @@ hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
 
 [[files]]
-file = "mods/addictivedeals.pw.toml"
-hash = "a11d253aefcadc6bc4134d6efb89f1fe0071221510cac73942997093da6355f1"
-metafile = true
-
-[[files]]
 file = "mods/addictives-plus.pw.toml"
 hash = "729b1b6d6cd314cb0208e1db2bf7e2ff4154d1777256451de4f695af4eeeffc6"
 metafile = true
@@ -92,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "816ae53b09d3b3c2e3b4e74470bf2332fcde8a5ae322e1a39bd11656ef1fa8e6"
-metafile = true
-
-[[files]]
-file = "mods/builders-delight-forge.pw.toml"
-hash = "14da9e021d0020a2c28c986045871e3a202205586905b9f34d42daac0c619d97"
 metafile = true
 
 [[files]]
@@ -370,11 +360,6 @@ hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
 metafile = true
 
 [[files]]
-file = "mods/create-simulated-missiles-create-aeronautics.pw.toml"
-hash = "639880c5b956436d71ff2e5ec17837f963a3e81ae84e03be6b5c35a919ddc20f"
-metafile = true
-
-[[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
 hash = "7e6cf9b0d48cce70273efbc86f834d138aaec540cecfe693d23389ef78181c6f"
 metafile = true
@@ -537,11 +522,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "33628426bbfebfa8b0d5abf0ccdec9632c877650b9c1be048277c6a59ea3b311"
-metafile = true
-
-[[files]]
-file = "mods/industrialized-architecture.pw.toml"
-hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
 metafile = true
 
 [[files]]
