@@ -1,0 +1,13 @@
+name = "Wither Spawn Animation"
+filename = "wither_spawn_animation-1.6.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3dc11b346a1e794f1b8f1eeaacc3afe9dc3eac8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7638136
+project-id = 1084564

@@ -1,0 +1,13 @@
+name = "Create Aeronautics Decoration"
+filename = "create_aeronautics_decoration-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7e9bcd704808f4e45bcd1911a6f82787c5be309"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9090631
+project-id = 1710363

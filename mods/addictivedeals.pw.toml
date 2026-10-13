@@ -1,0 +1,13 @@
+name = "AddictiveDeals"
+filename = "addictivedeals.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20252ddca6ecca460596cbda12dc1ae442dfb5f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8507677
+project-id = 1602082

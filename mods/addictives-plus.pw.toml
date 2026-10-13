@@ -1,0 +1,13 @@
+name = "Addictives Plus"
+filename = "addictives_plus-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b6e229f3d9dc58a927435c0ab47084a1df25074"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8859643
+project-id = 1608220

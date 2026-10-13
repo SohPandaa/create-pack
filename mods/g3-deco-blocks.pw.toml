@@ -1,0 +1,13 @@
+name = "G3 Deco Blocks"
+filename = "decorblocks-neo-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec1241cc48a8d6f9474ee19d46ea51de4c750820"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8377153
+project-id = 1541456

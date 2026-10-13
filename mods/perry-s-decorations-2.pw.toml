@@ -1,0 +1,13 @@
+name = "Perry´s Decorations 2"
+filename = "perrys_decorations_2-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b025bd951a498236b72417fb91757de8ecc1e4c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6584148
+project-id = 1271168

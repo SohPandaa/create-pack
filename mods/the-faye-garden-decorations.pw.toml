@@ -1,0 +1,13 @@
+name = "The Faye Garden Decorations"
+filename = "faye_garden_decorations-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b2b782cb5b7fc947047b47bc982e3f010275a65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6752395
+project-id = 1304082

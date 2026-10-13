@@ -1,0 +1,13 @@
+name = "Fast Paintings"
+filename = "fastpaintings-1.21-1.3.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5cfc24c9b079a624bee0e008ba3cfd10de365412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8975088
+project-id = 883287

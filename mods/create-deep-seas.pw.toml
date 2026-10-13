@@ -1,0 +1,13 @@
+name = "Create  Deep Seas"
+filename = "create_submarine-3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1aaaf64423d9e80aa750c71de426f6aaa33989e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9042070
+project-id = 1533137

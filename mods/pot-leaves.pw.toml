@@ -1,0 +1,13 @@
+name = "Pot Leaves"
+filename = "potleaves-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84474648e497c069b97707cc6a810ed44c7d94ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8837800
+project-id = 975890

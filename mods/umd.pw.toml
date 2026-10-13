@@ -1,0 +1,13 @@
+name = "Ultra Metro Decorations"
+filename = "ultra_metro_decorations-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4974fe271c207ec09d8a0a9c3fd7ffb955947734"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8786640
+project-id = 1331093
