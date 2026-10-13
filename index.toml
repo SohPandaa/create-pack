@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add-mods.sh"
-hash = "b6571a33b5a83ad8ce1a031f9f1023710ea042696d64829eeb5d177372b769d5"
+file = "mods/3dskinlayers.pw.toml"
+hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
+metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -710,6 +711,11 @@ hash = "fc58a3e283c0769d6861b3d07c0a919ba8a35dbca9fa040fbb574a1f5d7bad1a"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "1762970777e293ba6d7a6a7b43dde2ac87604820e0fd90dd712beb744d068266"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
@@ -802,11 +808,6 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "dc059048456f39386534fd35569932af770c50bd3977b1f35eda7d9073c832df"
 metafile = true
 
 [[files]]
@@ -905,6 +906,11 @@ hash = "3a38b581421787f8f5e6c59c07347fa1b0abe25943c8adc437bcb26a641e042e"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "59dba91bb98d9ec0b16dfd33cb975635a5b33a3c816b6c6a8f56d0416396b5e1"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
 metafile = true
@@ -968,7 +974,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
-
-[[files]]
-file = "set-client-sides.sh"
-hash = "081fc1d4f2e30af91e382c254670a4e7e9899bedfd22509388f656381d09dbb9"
