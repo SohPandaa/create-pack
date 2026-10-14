@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/biomeswevegone/world_generation.json"
+hash = "18467e557b32940d3c0799d445bb66d93ca2b806e137da1110f3a2fa0593c1cd"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
