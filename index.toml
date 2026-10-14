@@ -1021,11 +1021,6 @@ hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-maps-multiplayer-plus.pw.toml"
-hash = "9cc9c087056ab4a92fceca480eca0d0296d9e2baf8d807ef266802d16b659a38"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
