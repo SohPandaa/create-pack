@@ -3,11 +3,11 @@ filename = "collectors_caravan-9.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "37cda374911606846afe5077e65bbeae256f411c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AF7VX19e/versions/hXPH9QkQ/collectors_caravan-9.0.0.jar"
+hash-format = "sha512"
+hash = "ee7406dbef2d17aef232046d2654e164d671dca42190b302c62db928f8e8142a295ab8ba83120a2966a3a53cbd25c6f816b2d99cf75e788755f36fd3f70f9643"
 
 [update]
-[update.curseforge]
-file-id = 9168364
-project-id = 1070090
+[update.modrinth]
+mod-id = "AF7VX19e"
+version = "hXPH9QkQ"

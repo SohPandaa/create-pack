@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/collectors-caravan.pw.toml"
-hash = "5ddf5ced9adeb030bf28b3bc796fce7e95395736587fc72ba1e6d9c7a6a0ae08"
+hash = "cf7e13f6bd1add59688251d9c227dcf4d3b29ccf4359f9ca84e5c596669ecabd"
 metafile = true
 
 [[files]]
@@ -217,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-decoration.pw.toml"
 hash = "9e447d147266194c20f707e989bb7350e4d147494d26dd9be0a3f213ef65f5a1"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-simplified-logistics.pw.toml"
-hash = "6925c840459b62f29fe446043dbef5210f0b9bd2aa2fb0c42678535c19a2fe51"
 metafile = true
 
 [[files]]
@@ -372,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
-metafile = true
-
-[[files]]
-file = "mods/create-simulated-jet-engines-aero-propulsion.pw.toml"
-hash = "a4c9ab7513b2527648387a32e784e35c15475cb9a24cae1b3e5ede950cc4d123"
 metafile = true
 
 [[files]]
