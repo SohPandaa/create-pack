@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Curios Compat"
+filename = "CreateAeronauticsCuriosLinkedTypewriter-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a58fcd089d0b1f288023a4dc3edc00eded7552f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8263132
+project-id = 1532194

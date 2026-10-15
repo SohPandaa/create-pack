@@ -80,6 +80,11 @@ hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
+file = "mods/block-and-board.pw.toml"
+hash = "80bf9b3c081553747b2b563ea77225c523367ff8173ec970b5e04fb30ec92aff"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "16ba84aa4357c8ca27afc6f92225b94ae4a965dfef3eed9240c3062436e1fd0f"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/collectors-caravan.pw.toml"
+hash = "5ddf5ced9adeb030bf28b3bc796fce7e95395736587fc72ba1e6d9c7a6a0ae08"
 metafile = true
 
 [[files]]
@@ -200,8 +210,18 @@ hash = "3a2ae957df07f167b9be65d2d702aa88f0d57dca9d58fb0d1d5e4bf60ae1aeb0"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-curios-compat.pw.toml"
+hash = "0b00254c02684ba298505c954c30006dbc328a94f219332061a9cf811ef2fd02"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-decoration.pw.toml"
 hash = "9e447d147266194c20f707e989bb7350e4d147494d26dd9be0a3f213ef65f5a1"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-simplified-logistics.pw.toml"
+hash = "6925c840459b62f29fe446043dbef5210f0b9bd2aa2fb0c42678535c19a2fe51"
 metafile = true
 
 [[files]]
@@ -355,6 +375,11 @@ hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
 metafile = true
 
 [[files]]
+file = "mods/create-simulated-jet-engines-aero-propulsion.pw.toml"
+hash = "a4c9ab7513b2527648387a32e784e35c15475cb9a24cae1b3e5ede950cc4d123"
+metafile = true
+
+[[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
 hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
 metafile = true
@@ -407,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "e16341547a7e580456c1ec30e0b220ee6db94f40293b839e15d09d793468c0df"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "15bddc1e660636e281e2765059a119c415b2e13f068c861adc40195c38a5048a"
 metafile = true
 
 [[files]]
@@ -630,6 +660,11 @@ hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "7211de0ddeab153fc2bf9588f5922de705006be507002ec03cb9f8e6b67ab4cf"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -667,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "7cc4b699a816b1dcee290ceb5951f404079edfefd0dd844955056fbf93b82629"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "9df145eb4d59032b754eb0f3441261316ccdf718de56ad89029bf36b6f48a8c8"
 metafile = true
 
 [[files]]
@@ -937,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "7b0fae7a23721ebea12ea8bae66caaf083c43100ac79aa56269132d6b36fc819"
 metafile = true
 
 [[files]]

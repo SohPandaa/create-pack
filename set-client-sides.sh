@@ -20,6 +20,7 @@ client_mods=(
   memory-settings
   xaeros-minimap
   overflowing-bars
+  lambdynamiclights
 )
 
 missing=()

@@ -1,0 +1,13 @@
+name = "Collector's Caravan"
+filename = "collectors_caravan-9.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37cda374911606846afe5077e65bbeae256f411c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9168364
+project-id = 1070090
