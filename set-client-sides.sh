@@ -21,6 +21,8 @@ client_mods=(
   xaeros-minimap
   overflowing-bars
   lambdynamiclights
+  just-zoom
+  konkrete
 )
 
 missing=()
