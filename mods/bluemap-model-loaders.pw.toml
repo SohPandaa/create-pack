@@ -1,0 +1,8 @@
+name = "BlueMap Model Loaders"
+filename = "bluemapmodelloaders-neoforge-0.2.2.jar"
+side = "server"
+
+[download]
+url = "https://github.com/Uiniel/BlueMapModelLoaders/releases/download/v0.2.2/bluemapmodelloaders-neoforge-0.2.2.jar"
+hash-format = "sha256"
+hash = "e0da5a620b02f5b82fbf77fa83813bb388c1b229fc00a3954047766ce54aacbe"

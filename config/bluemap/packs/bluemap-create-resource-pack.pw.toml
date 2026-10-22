@@ -1,0 +1,8 @@
+name = "BlueMap Create Resource Pack"
+filename = "BlueMap-Create-Resource-Pack.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Uiniel/BlueMap-Create-Resource-Pack/releases/download/v1/BlueMap-Create-Resource-Pack.zip"
+hash-format = "sha256"
+hash = "d022abaeac28e6f4edb200e6d928d117ad3a0367a9383a342327cc7fa52da669"
