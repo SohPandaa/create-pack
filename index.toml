@@ -125,6 +125,16 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/coasters-engineered.pw.toml"
+hash = "888fbb5416e82039b1911882ae35257c038d77aef7af38138c17eeb3062d77a4"
+metafile = true
+
+[[files]]
+file = "mods/coasters-magnetized.pw.toml"
+hash = "4b6d93953993eaa3fd1df4c4c1b32c602840cb23bf830ac2658ed7d89547c559"
+metafile = true
+
+[[files]]
 file = "mods/collectors-caravan.pw.toml"
 hash = "cf7e13f6bd1add59688251d9c227dcf4d3b29ccf4359f9ca84e5c596669ecabd"
 metafile = true
@@ -247,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "3c416226b0040265cf8b2e633dd57784311797a2d7490d130f60d39a9b6bc3ae"
+metafile = true
+
+[[files]]
+file = "mods/create-coaster-seats.pw.toml"
+hash = "27e24e4805f0c5612b173f611bece22b8d1a3919d94665d96ae1a089541ec03f"
 metafile = true
 
 [[files]]
@@ -437,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
+
+[[files]]
+file = "mods/daycount.pw.toml"
+hash = "42122edaddda17183b6984caf54f88684f2062296be5954a7d5069d9421ae5cd"
 metafile = true
 
 [[files]]
@@ -982,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "7b0fae7a23721ebea12ea8bae66caaf083c43100ac79aa56269132d6b36fc819"
+metafile = true
+
+[[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "814062f207d8837246db5699198c5381e0b094866d112e7dd20b1f83c8dd6e17"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Create: Coaster Seats"
+filename = "createcoasterseats-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/du1KBA2p/versions/vtyvJPEJ/createcoasterseats-1.2.jar"
+hash-format = "sha512"
+hash = "6e5c209cb7382de59da3c67efb3cd568d5440b79f350986898e712371e59076f61277b3552f89ecbfab4587f103d9007e9365aa2dfd1bc8ae6d5750ce93bb122"
+
+[update]
+[update.modrinth]
+mod-id = "du1KBA2p"
+version = "vtyvJPEJ"

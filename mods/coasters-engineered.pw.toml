@@ -1,0 +1,13 @@
+name = "Coasters: Engineered"
+filename = "coastersengineered-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/guKf87OB/versions/pzBMM4ER/coastersengineered-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "437633b806a579fbceec72894ebaacd151b77da0f6b951a957316171c199f67310bc270c4b0206566a4cb4ed7fd2968704d4f3c63922ae6ff5ea095978e64a80"
+
+[update]
+[update.modrinth]
+mod-id = "guKf87OB"
+version = "pzBMM4ER"

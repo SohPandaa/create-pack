@@ -23,6 +23,7 @@ client_mods=(
   lambdynamiclights
   just-zoom
   konkrete
+  daycount
 )
 
 missing=()
