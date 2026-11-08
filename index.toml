@@ -485,6 +485,11 @@ hash = "42122edaddda17183b6984caf54f88684f2062296be5954a7d5069d9421ae5cd"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "6d37de7b436e094a7834d51b5d9d803653ab445e1041853f32a61599b054c7bf"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "d864568b2c2985e825ffcb783990e4b45486ee9fefc69e45f9cacb47a1feb1a1"
 metafile = true
@@ -1022,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
 metafile = true
 
 [[files]]

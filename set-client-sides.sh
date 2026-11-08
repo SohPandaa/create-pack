@@ -24,6 +24,7 @@ client_mods=(
   just-zoom
   konkrete
   daycount
+  distanthorizons
 )
 
 missing=()
