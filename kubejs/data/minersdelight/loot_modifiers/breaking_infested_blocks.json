@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:add_item",
+  "conditions": [
+    {
+      "condition": "minersdelight:block_tag",
+      "tag": "minersdelight:infested_blocks"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.35
+    },
+    {
+      "condition": "neoforge:can_item_perform_ability",
+      "ability": "pickaxe_dig"
+    }
+  ],
+  "item": "minersdelight:silverfish_eggs",
+  "count": 1
+}

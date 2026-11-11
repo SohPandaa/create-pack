@@ -15,6 +15,82 @@ hash = "9cb899c1c0cb1cf16ebc9b13b922bc9338506665492e15d0bc460e30a656f586"
 metafile = true
 
 [[files]]
+file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
+hash = "e38fea2eb435ab0ad85c39f98fa804bfadb622b382f6f7dd4621de7cac36c221"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/birch_trellis.json"
+hash = "c95f94addf7bf07b6711b8bc456f90b55933e76eba453cb402102b23697a8a59"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/crimson_trellis.json"
+hash = "a835c13e7e95f11678b083dd4bd44be9953b7f6a7da564c439c532f77f5f5d68"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/dark_oak_trellis.json"
+hash = "2f89f1b8e04bfe4602a9fc0a3741ed8830e711c0217f978a953371f8990f5a1c"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/hanging_pot.json"
+hash = "424db1897fc2f26ad8e482e4d311005b35906555b0abf094b195d0e223d5419c"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/jungle_trellis.json"
+hash = "985905fb5b07948f2199bb032569b240b860e37232f2bc7335c4bfd696306623"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/lamp_jar.json"
+hash = "a6411da23ac323311f0494b62157ffe1818cd113c2d941ecaf04df419e3a532a"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/mangrove_trellis.json"
+hash = "8146373f53542eacf6102626e6282f49ea59c1b6cbd6241bd3cdb8308dd2a6d7"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/oak_trellis.json"
+hash = "1d51eaf8cf1d1e7230d48336fac5e086d26872a740324ae0413320d68e0e2f3c"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/spruce_trellis.json"
+hash = "816443da21359c47eb9ad45f8e37e62754060b854afb948f88e8a1b866ef0bcc"
+
+[[files]]
+file = "kubejs/data/beautify/loot_table/blocks/warped_trellis.json"
+hash = "1194ba6c5cadfa7071ce40482a0746a7d6542fcc8476389b6f2129a28d15caec"
+
+[[files]]
+file = "kubejs/data/expandeddelight/loot_modifiers/add_loot_village_desert_house.json"
+hash = "3624dad86594d8a0bd1538601ac85ce840c6863581f26ca354b2e6b4b112c872"
+
+[[files]]
+file = "kubejs/data/expandeddelight/loot_modifiers/add_loot_village_plains_house.json"
+hash = "450dc0c2562073362d7aefd30e1b94c15c3915f531b111faf25f48065f964c65"
+
+[[files]]
+file = "kubejs/data/expandeddelight/loot_modifiers/add_loot_village_savanna_house.json"
+hash = "d53f10a177ee817529924e6f3c90fd338c5cf696f5b7a0bd48ebb8c963f39d94"
+
+[[files]]
+file = "kubejs/data/expandeddelight/loot_modifiers/add_loot_village_snowy_house.json"
+hash = "41cc1ff4ce747cd016af9d413ab29464eaf383d64bbabdbdc61e11cc3737101d"
+
+[[files]]
+file = "kubejs/data/expandeddelight/loot_modifiers/add_loot_village_taiga_house.json"
+hash = "c9eb6d5ea8cc87975ea77c309970d43a9b33293f89ab6545c9b49a5035c08665"
+
+[[files]]
+file = "kubejs/data/minersdelight/loot_modifiers/add_loot_abandoned_mineshaft.json"
+hash = "00d740f4d732b143bea1face1049edfc23b6fa281bd6c7b4d08885d62c9734ae"
+
+[[files]]
+file = "kubejs/data/minersdelight/loot_modifiers/breaking_infested_blocks.json"
+hash = "43a87d9d3fdeca3f96e633d04621b2c5fa65b9b68d79aadc7d58db313aae9158"
+
+[[files]]
+file = "kubejs/data/minersdelight/loot_modifiers/scavenging_cooked_bat_wing_knifeless.json"
+hash = "915f7959ffb610053e9f305a02290de85b78e8ee45914ffd80eef2742ca29df8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
