@@ -1,0 +1,13 @@
+name = "Chunksmith"
+filename = "chunksmith-4.8.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/4Bd6ozCL/chunksmith-4.8.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "7eb11d0d85a4f1d3f2881c7aaa504832c3bce0c64cd7640795cf883e4f0d798a29ceb5389d4e3fb8a12e09f57f0a38674d15689010883d615b28d7844e28e8e5"
+
+[update]
+[update.modrinth]
+mod-id = "4BeAEBIb"
+version = "4Bd6ozCL"
