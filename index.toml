@@ -15,6 +15,18 @@ hash = "9cb899c1c0cb1cf16ebc9b13b922bc9338506665492e15d0bc460e30a656f586"
 metafile = true
 
 [[files]]
+file = "config/mca.json"
+hash = "1854db7875a4bb1e041241eaed390ecb6aaa16407fd4849ca1d4432d13eb7daa"
+
+[[files]]
+file = "config/simplehats.json5"
+hash = "ca29bf9419e0b6d501fbcbfd97a0c12aee09725d52802d7e947b2ac7a42091b3"
+
+[[files]]
+file = "config/solcarrot-server.toml"
+hash = "04e9884ccd568e9736f44f408647f31c0c2e28a9e60e07fca1e3be0b09a2e826"
+
+[[files]]
 file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
 hash = "e38fea2eb435ab0ad85c39f98fa804bfadb622b382f6f7dd4621de7cac36c221"
 
