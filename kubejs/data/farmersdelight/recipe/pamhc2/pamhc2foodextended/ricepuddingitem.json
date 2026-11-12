@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:spices/vanilla"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:ricepuddingitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

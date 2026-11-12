@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/melonjelly"
+    },
+    {
+      "tag": "c:nutbutters"
+    },
+    {
+      "tag": "c:bread"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:melonjellysandwichitem",
+    "count": 1
+  }
+}

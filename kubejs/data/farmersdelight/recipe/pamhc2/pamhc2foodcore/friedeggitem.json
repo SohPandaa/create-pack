@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "tag": "c:egg"
+  },
+  "result": {
+    "id": "pamhc2foodcore:friedeggitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35
+}

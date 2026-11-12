@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pastagardeniaitem",
+    "count": 1
+  }
+}

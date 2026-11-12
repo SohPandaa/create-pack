@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:condiments"
+    },
+    {
+      "tag": "c:bread"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:baconmushroomburgeritem",
+    "count": 1
+  }
+}

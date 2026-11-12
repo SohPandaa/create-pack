@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:tortilla"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:salsa"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chimichangaitem",
+    "count": 1
+  }
+}

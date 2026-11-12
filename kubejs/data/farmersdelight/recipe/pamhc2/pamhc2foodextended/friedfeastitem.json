@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:coleslawitem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "c:sodas"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:friedfeastitem",
+    "count": 1
+  }
+}

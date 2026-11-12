@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:groundchickenitem"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:chickennuggetitem",
+    "count": 4
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

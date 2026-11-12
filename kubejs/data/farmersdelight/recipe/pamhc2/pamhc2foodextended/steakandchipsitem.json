@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:steakandchipsitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

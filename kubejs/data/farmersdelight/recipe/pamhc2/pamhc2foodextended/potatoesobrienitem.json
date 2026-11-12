@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/bellpepper"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:potatoesobrienitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

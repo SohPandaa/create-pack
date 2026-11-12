@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "item": "pamhc2foodextended:raisinsitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:oatmealraisincookiesitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

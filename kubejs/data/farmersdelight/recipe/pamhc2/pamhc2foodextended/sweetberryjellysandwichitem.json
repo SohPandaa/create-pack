@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/sweetberryjelly"
+    },
+    {
+      "tag": "c:nutbutters"
+    },
+    {
+      "tag": "c:bread"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sweetberryjellysandwichitem",
+    "count": 1
+  }
+}

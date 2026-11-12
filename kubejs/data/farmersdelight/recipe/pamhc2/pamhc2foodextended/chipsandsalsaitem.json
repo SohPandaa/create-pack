@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:tortillachips"
+    },
+    {
+      "tag": "c:salsa"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chipsandsalsaitem",
+    "count": 1
+  }
+}

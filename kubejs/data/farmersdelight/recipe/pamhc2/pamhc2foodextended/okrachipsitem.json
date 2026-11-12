@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/okra"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:okrachipsitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

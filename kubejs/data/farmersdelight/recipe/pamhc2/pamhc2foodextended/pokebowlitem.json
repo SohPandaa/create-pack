@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:crops/soybean"
+    },
+    {
+      "tag": "c:crops/ginger"
+    },
+    {
+      "tag": "c:crops/scallion"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pokebowlitem",
+    "count": 1
+  }
+}

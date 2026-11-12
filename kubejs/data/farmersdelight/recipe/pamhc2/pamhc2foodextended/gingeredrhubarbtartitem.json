@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/rhubarb"
+    },
+    {
+      "tag": "c:crops/ginger"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gingeredrhubarbtartitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

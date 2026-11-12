@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:yogurt"
+    },
+    {
+      "tag": "c:caramel"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:caramelyogurtitem",
+    "count": 1
+  }
+}

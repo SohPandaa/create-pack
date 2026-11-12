@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:butter"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:garlicbreaditem",
+    "count": 1
+  }
+}

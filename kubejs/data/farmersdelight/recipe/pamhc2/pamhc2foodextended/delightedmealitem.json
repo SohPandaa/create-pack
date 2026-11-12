@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:mcpamitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:delightedmealitem",
+    "count": 1
+  }
+}

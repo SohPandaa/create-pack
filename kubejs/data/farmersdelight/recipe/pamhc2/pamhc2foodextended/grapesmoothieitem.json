@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/grapes"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:grapesmoothieitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "c:crops/corn"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "tag": "c:condiments/oystersauce"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cantonesenoodlesitem",
+    "count": 1
+  }
+}

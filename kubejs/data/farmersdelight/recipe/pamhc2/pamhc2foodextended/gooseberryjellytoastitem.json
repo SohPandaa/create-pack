@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/gooseberryjelly"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gooseberryjellytoastitem",
+    "count": 1
+  }
+}

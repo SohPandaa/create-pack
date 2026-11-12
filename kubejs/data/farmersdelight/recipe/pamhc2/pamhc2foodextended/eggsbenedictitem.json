@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:egg"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:crops/lemon"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:eggsbenedictitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/pearjelly"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pearjellytoastitem",
+    "count": 1
+  }
+}

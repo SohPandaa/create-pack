@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/kiwijelly"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:kiwijellytoastitem",
+    "count": 1
+  }
+}

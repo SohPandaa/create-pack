@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:chickencurryitem"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "item": "pamhc2foodextended:naanitem"
+    },
+    {
+      "item": "pamhc2foodextended:mangochutneyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:deluxechickencurryitem",
+    "count": 1
+  }
+}

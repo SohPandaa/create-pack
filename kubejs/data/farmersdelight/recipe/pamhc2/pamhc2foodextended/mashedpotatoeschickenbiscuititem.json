@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "c:rawchicken"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mashedpotatoeschickenbiscuititem",
+    "count": 1
+  }
+}

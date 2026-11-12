@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/passionfruit"
+    },
+    {
+      "tag": "c:yogurt"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:passionfruityogurtitem",
+    "count": 1
+  }
+}

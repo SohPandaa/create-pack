@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:bamboosteamedriceitem"
+    },
+    {
+      "item": "pamhc2foodcore:pickledbeetsitem"
+    },
+    {
+      "item": "pamhc2foodextended:teriyakichickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:sushiitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bentoboxitem",
+    "count": 1
+  }
+}

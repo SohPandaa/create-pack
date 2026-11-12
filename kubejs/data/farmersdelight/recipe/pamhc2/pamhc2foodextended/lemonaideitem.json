@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:lemonaideitem",
+    "count": 1
+  }
+}

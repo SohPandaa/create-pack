@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:musubiitem",
+    "count": 1
+  }
+}

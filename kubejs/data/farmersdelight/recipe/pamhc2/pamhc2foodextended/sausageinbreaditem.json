@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:maplesausageitem"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:condiments/ketchup"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sausageinbreaditem",
+    "count": 1
+  }
+}

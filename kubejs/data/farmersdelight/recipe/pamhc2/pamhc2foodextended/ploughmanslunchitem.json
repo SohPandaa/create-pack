@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:crops/apple"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:sweetpickleitem"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:boiledegg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:ploughmanslunchitem",
+    "count": 1
+  }
+}

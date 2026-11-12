@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:crops/coffeebean"
+    },
+    {
+      "tag": "c:cocoapowder"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mochaicecreamitem",
+    "count": 1
+  }
+}

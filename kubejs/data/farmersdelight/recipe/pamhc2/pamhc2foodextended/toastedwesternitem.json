@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/bellpepper"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:toastedwesternitem",
+    "count": 1
+  }
+}

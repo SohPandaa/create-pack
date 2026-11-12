@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "c:cocoapowder"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pambitsboxitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

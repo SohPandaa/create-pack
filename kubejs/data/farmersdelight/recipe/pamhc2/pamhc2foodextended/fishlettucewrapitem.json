@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:rawfish"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:fishlettucewrapitem",
+    "count": 1
+  }
+}

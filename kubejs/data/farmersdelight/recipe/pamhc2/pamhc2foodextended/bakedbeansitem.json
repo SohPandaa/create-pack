@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/bean"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:condiments/bbqsauce"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bakedbeansitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

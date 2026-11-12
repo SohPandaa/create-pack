@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:firmtofu"
+    },
+    {
+      "tag": "c:soysauce"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:rawtofishitem",
+    "count": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/coconut"
+    },
+    {
+      "tag": "c:yogurt"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:spices/currypowder"
+    },
+    {
+      "tag": "c:crops/chilipepper"
+    },
+    {
+      "tag": "c:crops/rice"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chickencurryitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

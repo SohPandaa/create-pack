@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "tag": "c:crops/broccoli"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:rawpork"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sunflowerbroccolisaladitem",
+    "count": 1
+  }
+}

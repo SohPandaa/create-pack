@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:currypowderitem",
+    "count": 1
+  }
+}

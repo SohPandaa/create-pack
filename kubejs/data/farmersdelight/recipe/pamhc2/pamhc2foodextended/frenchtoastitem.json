@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:frenchtoastitem",
+    "count": 1
+  }
+}

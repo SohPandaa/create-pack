@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:berries"
+    },
+    {
+      "tag": "c:yogurt"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:berrymeringuenestitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:crops/cherry"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cherryicecreamitem",
+    "count": 1
+  }
+}

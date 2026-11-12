@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:tortilla"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:tacoitem",
+    "count": 1
+  }
+}

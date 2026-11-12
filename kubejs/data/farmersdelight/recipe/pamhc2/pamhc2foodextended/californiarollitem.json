@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "tag": "c:crops/cucumber"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "c:crops/rice"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:californiarollitem",
+    "count": 1
+  }
+}

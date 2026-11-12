@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/papayajelly"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:papayajellytoastitem",
+    "count": 1
+  }
+}

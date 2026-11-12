@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/tamarind"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:tamarindsmoothieitem",
+    "count": 1
+  }
+}

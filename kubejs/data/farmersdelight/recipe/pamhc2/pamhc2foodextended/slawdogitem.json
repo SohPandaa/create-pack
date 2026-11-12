@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+    {
+      "tag": "c:condiments/ketchup"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "c:condiments/relish"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:slawdogitem",
+    "count": 1
+  }
+}

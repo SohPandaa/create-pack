@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:sausage"
+    },
+    {
+      "tag": "c:condiments/relish"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:bread"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bratwurstitem",
+    "count": 1
+  }
+}

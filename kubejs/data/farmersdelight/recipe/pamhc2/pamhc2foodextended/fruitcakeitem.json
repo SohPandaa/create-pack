@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/apricot"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+    {
+      "tag": "c:juices"
+    },
+    {
+      "tag": "c:crops/date"
+    },
+    {
+      "tag": "c:crops/cherry"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:fruitcakeitem",
+    "count": 1
+  }
+}

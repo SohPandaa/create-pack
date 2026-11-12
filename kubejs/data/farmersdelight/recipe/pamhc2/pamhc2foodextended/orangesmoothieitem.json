@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/orange"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:orangesmoothieitem",
+    "count": 1
+  }
+}

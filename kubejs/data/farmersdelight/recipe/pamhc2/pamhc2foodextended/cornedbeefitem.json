@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/ginger"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cornedbeefitem",
+    "count": 1
+  }
+}

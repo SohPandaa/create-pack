@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pepperoniitem",
+    "count": 1
+  }
+}

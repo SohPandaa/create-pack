@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits/cactus_fruit"
+    },
+    {
+      "tag": "c:yogurt"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cactusfruityogurtitem",
+    "count": 1
+  }
+}

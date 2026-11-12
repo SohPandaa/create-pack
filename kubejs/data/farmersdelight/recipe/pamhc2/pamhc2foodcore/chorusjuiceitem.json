@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/chorusfruit"
+    },
+    {
+      "tag": "c:crops/chorusfruit"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:chorusjuiceitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

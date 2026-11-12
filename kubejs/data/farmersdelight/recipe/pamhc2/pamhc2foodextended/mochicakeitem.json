@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:butter"
+    },
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:spices/vanilla"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mochicakeitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

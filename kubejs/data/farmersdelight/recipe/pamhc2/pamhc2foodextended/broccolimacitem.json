@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:crops/broccoli"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:broccolimacitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

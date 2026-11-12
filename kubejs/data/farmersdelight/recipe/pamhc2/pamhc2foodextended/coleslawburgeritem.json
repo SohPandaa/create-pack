@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:basichamburgeritem"
+    },
+    {
+      "item": "pamhc2foodextended:coleslawitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:coleslawburgeritem",
+    "count": 1
+  }
+}

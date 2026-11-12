@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:groundmeats/groundpork"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:condiments/ketchup"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:hashitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

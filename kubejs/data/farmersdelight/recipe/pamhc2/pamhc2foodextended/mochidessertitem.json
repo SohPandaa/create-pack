@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "tag": "c:icecream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mochidessertitem",
+    "count": 1
+  }
+}

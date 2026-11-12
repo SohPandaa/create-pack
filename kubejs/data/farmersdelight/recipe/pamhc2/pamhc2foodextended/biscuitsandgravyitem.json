@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "item": "pamhc2foodextended:gravyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:biscuitsandgravyitem",
+    "count": 1
+  }
+}

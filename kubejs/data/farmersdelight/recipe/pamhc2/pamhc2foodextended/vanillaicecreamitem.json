@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:spices/vanilla"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:vanillaicecreamitem",
+    "count": 1
+  }
+}

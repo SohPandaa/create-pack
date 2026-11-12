@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:crops/scallion"
+    },
+    {
+      "tag": "c:crops/ginger"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bulgogiitem",
+    "count": 1
+  }
+}

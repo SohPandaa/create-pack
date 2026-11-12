@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:yogurt"
+    },
+    {
+      "tag": "c:crops/melon"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:melonyogurtitem",
+    "count": 1
+  }
+}

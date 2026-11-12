@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:condiments"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:basiccheeseburgeritem",
+    "count": 1
+  }
+}

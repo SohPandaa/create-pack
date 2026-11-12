@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/broccoli"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:broccolindipitem",
+    "count": 1
+  }
+}

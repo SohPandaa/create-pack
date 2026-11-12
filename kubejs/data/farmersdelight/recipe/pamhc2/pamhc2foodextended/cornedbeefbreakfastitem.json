@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:cornedbeefhashitem"
+    },
+    {
+      "tag": "c:friedegg"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:condiments/ketchup"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cornedbeefbreakfastitem",
+    "count": 1
+  }
+}

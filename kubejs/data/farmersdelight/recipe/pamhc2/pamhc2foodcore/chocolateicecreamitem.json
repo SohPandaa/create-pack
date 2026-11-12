@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:cocoapowder"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:chocolateicecreamitem",
+    "count": 1
+  }
+}

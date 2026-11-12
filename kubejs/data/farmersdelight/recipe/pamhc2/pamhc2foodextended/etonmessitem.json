@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:jellies/strawberryjelly"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:etonmessitem",
+    "count": 1
+  }
+}

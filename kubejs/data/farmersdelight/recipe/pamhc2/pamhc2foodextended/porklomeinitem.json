@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:porklomeinitem",
+    "count": 1
+  }
+}

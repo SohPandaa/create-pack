@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:crops/scallion"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:loxbagelsandwichitem",
+    "count": 1
+  }
+}

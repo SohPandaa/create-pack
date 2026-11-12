@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/cherry"
+    },
+    {
+      "tag": "c:crops/walnut"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pineappleupsidedowncakeitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:pepperoni"
+    },
+    {
+      "tag": "c:sausage"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:rawchicken"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:meatfeastpizzaitem",
+    "count": 1
+  }
+}

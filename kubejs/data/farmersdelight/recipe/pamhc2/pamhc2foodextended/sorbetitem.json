@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:ices"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sorbetitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/celery"
+    },
+    {
+      "tag": "c:crops/peas"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:peasandceleryitem",
+    "count": 1
+  }
+}

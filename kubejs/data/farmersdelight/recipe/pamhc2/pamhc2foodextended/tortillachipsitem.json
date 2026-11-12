@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:tortilla"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:crops/lime"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:tortillachipsitem",
+    "count": 1
+  }
+}

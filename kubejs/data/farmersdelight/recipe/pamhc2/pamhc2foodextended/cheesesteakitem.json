@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:crops/bellpepper"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:cheesesteakitem",
+    "count": 1
+  }
+}

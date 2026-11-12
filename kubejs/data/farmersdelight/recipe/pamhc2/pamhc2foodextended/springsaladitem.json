@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:condiments/saladdressing"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:springsaladitem",
+    "count": 1
+  }
+}

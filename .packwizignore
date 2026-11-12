@@ -1,3 +1,4 @@
 *.sh
 MANUAL_MODS.md
 .github
+tools/

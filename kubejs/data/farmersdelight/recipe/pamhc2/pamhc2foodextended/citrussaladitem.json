@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:citrusfruits"
+    },
+    {
+      "tag": "c:citrusfruits"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:citrussaladitem",
+    "count": 1
+  }
+}

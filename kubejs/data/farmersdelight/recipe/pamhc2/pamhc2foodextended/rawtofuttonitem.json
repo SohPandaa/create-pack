@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:firmtofu"
+    },
+    {
+      "tag": "c:condiments/soysauce"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:rawtofuttonitem",
+    "count": 2
+  }
+}

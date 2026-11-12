@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:spagettiandmeatballsitem"
+    },
+    {
+      "item": "pamhc2foodextended:garlicbreaditem"
+    },
+    {
+      "tag": "c:milk"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:spaghettidinneritem",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:juices/applejuice"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:applesmoothieitem",
+    "count": 1
+  }
+}

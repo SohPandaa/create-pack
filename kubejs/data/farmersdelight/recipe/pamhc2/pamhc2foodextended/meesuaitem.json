@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/corn"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:crops/scallion"
+    },
+    {
+      "tag": "c:condiments/oystersauce"
+    },
+    {
+      "tag": "c:crops/coconut"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:meesuaitem",
+    "count": 1
+  }
+}

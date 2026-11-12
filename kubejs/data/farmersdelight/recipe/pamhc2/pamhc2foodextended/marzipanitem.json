@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:honey"
+    },
+    {
+      "tag": "c:crops/almond"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:marzipanitem",
+    "count": 1
+  }
+}

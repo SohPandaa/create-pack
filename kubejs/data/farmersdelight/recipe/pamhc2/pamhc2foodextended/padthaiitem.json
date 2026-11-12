@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:pasta"
+    },
+    {
+      "tag": "c:crops/peanut"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "c:firmtofu"
+    },
+    {
+      "tag": "c:crops/chilipepper"
+    },
+    {
+      "tag": "c:crops/lime"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:padthaiitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

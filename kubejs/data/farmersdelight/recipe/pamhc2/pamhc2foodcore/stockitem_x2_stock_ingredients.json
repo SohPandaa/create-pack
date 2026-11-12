@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:stock_ingredients"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:stockitem",
+    "count": 2
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

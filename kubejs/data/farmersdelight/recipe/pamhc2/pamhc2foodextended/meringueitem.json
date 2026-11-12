@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:cornmeal"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:meringueitem",
+    "count": 1
+  }
+}

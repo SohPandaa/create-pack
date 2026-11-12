@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:grilledcheeseitem"
+    },
+    {
+      "item": "pamhc2foodextended:vegemiteitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:grilledcheesevegemitetoastitem",
+    "count": 1
+  }
+}

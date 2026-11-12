@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:icecreams"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bakedalaskaitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

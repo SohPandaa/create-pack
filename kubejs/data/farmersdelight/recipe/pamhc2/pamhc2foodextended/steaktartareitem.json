@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:steaktartareitem",
+    "count": 1
+  }
+}

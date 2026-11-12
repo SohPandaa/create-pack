@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:meringue"
+    },
+    {
+      "tag": "c:butter"
+    },
+    {
+      "tag": "c:crops/apple"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:applesnowitem",
+    "count": 1
+  }
+}

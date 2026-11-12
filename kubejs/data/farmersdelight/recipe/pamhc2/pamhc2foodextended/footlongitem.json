@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:footlongitem",
+    "count": 1
+  }
+}

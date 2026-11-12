@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:jellies/glowberryjelly"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:glowberryjellytoastitem",
+    "count": 1
+  }
+}

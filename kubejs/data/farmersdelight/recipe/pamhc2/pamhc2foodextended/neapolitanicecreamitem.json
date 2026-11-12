@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:crops/strawberry"
+    },
+    {
+      "tag": "c:icecreams/vanillaicecream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:neapolitanicecreamitem",
+    "count": 1
+  }
+}

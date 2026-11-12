@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:chickentendersitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    },
+    {
+      "tag": "c:sodas"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chickentendersmealitem",
+    "count": 1
+  }
+}

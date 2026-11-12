@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/coconut"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pinacoladaitem",
+    "count": 1
+  }
+}

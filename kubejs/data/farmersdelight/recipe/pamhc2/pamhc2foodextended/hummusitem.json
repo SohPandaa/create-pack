@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/chickpea"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:hummusitem",
+    "count": 1
+  }
+}

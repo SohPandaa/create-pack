@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:fruits/pomegranate"
+    },
+    {
+      "tag": "c:fruits/pomegranate"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:pomegranatejuiceitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

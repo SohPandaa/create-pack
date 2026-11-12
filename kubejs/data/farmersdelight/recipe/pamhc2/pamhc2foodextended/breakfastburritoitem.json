@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:tortilla"
+    },
+    {
+      "tag": "c:scrambledegg"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/potato"
+    },
+    {
+      "tag": "c:cheese"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:breakfastburritoitem",
+    "count": 1
+  }
+}

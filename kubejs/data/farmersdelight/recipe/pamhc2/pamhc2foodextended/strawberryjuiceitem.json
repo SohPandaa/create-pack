@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:fruits/strawberries"
+    },
+    {
+      "tag": "c:fruits/strawberries"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:strawberryjuiceitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

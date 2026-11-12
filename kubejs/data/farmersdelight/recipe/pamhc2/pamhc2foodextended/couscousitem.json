@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:water"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:couscousitem",
+    "count": 1
+  }
+}

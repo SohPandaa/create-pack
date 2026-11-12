@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:hotteaitem"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:crops/lemon"
+    },
+    {
+      "tag": "c:ices"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sweetteaitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

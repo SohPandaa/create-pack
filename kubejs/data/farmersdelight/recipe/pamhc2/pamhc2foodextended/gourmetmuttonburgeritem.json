@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:gourmetmuttonpattyitem"
+    },
+    {
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:crops/spinach"
+    },
+    {
+      "item": "pamhc2crops:roastedmushroomitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gourmetmuttonburgeritem",
+    "count": 1
+  }
+}

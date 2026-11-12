@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:pepperoni"
+    },
+    {
+      "tag": "c:crops/bellpepper"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:supremepizzaitem",
+    "count": 1
+  }
+}

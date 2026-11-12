@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:condiments/sesameoil"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "item": "minecraft:bamboo"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:vinegar"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:hotandsoursoupitem",
+    "count": 1
+  }
+}

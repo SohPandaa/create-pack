@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:grain"
+    },
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:imitationcrabsticksitem",
+    "count": 1
+  }
+}

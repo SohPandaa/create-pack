@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:rawpork"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:porklettucewrapitem",
+    "count": 1
+  }
+}

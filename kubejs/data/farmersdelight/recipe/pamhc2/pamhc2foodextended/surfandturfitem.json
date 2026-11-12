@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawfish"
+    },
+    {
+      "tag": "c:rawmeats"
+    },
+    {
+      "tag": "c:vegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:surfandturfitem",
+    "count": 1
+  }
+}

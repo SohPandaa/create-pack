@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:rootbeersodaitem"
+    },
+    {
+      "tag": "c:icecreams"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:rootbeerfloatitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:honey"
+    },
+    {
+      "tag": "c:batter"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:honeymuffinitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

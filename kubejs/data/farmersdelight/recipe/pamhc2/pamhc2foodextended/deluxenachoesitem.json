@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:tortillachips"
+    },
+    {
+      "tag": "c:salsa"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:rawmeats"
+    },
+    {
+      "tag": "c:crops/chilipepper"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:deluxenachoesitem",
+    "count": 1
+  }
+}

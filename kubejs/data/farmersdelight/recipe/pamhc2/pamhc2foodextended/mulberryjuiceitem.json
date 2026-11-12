@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:fruits/mulberry"
+    },
+    {
+      "tag": "c:fruits/mulberry"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mulberryjuiceitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

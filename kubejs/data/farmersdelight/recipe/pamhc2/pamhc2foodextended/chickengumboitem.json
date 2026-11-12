@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/okra"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:crops/celery"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:stock"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/bellpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chickengumboitem",
+    "count": 1
+  }
+}

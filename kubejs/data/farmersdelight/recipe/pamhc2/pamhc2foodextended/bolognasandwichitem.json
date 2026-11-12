@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:bread"
+    },
+    {
+      "item": "pamhc2foodextended:bolognaitem"
+    },
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bolognasandwichitem",
+    "count": 1
+  }
+}

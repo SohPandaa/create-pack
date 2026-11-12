@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:juices/applejuice"
+    },
+    {
+      "tag": "c:ices"
+    },
+    {
+      "tag": "c:rods/wooden"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:applepopsicleitem",
+    "count": 1
+  }
+}

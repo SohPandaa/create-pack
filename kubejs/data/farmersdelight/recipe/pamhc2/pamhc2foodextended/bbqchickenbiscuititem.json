@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "tag": "c:condiments/bbqsauce"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bbqchickenbiscuititem",
+    "count": 1
+  }
+}

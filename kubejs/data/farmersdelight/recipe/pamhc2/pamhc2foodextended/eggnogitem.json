@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:spices/groundnutmeg"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:eggnogitem",
+    "count": 1
+  }
+}

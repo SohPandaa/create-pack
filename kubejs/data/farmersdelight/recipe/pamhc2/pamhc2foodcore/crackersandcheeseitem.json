@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:cracker"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:cracker"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:crackersandcheeseitem",
+    "count": 1
+  }
+}

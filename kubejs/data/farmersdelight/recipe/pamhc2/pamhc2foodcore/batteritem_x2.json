@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:milk"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:batteritem",
+    "count": 2
+  }
+}

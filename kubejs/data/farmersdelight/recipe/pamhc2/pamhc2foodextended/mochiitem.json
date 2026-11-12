@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:water"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mochiitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:groundporkitem"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:condiments"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:hotdogitem",
+    "count": 1
+  }
+}

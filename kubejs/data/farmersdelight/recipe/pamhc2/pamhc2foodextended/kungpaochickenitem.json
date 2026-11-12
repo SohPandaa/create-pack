@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:crops/orange"
+    },
+    {
+      "tag": "c:crops/ginger"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:sugar"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:crops/peanut"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:kungpaochickenitem",
+    "count": 1
+  }
+}

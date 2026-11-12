@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:condiments/saladdressing"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:ceasarsaladitem",
+    "count": 1
+  }
+}

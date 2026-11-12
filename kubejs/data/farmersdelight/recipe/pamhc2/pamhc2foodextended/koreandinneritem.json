@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:bulgogiitem"
+    },
+    {
+      "item": "pamhc2foodextended:omuriceitem"
+    },
+    {
+      "item": "pamhc2foodextended:kimchiitem"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:koreandinneritem",
+    "count": 1
+  }
+}

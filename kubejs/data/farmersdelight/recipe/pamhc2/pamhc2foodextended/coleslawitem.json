@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:vinegar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:coleslawitem",
+    "count": 1
+  }
+}

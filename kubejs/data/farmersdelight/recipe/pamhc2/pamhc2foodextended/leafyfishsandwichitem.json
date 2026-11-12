@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:basicfishsandwichitem"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:leafyfishsandwichitem",
+    "count": 1
+  }
+}

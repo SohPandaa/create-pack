@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/garlic"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:avocadotoastitem",
+    "count": 1
+  }
+}

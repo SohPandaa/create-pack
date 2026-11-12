@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "tag": "c:crops/leek"
+    },
+    {
+      "tag": "c:crops/onion"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chikorollitem",
+    "count": 1
+  }
+}

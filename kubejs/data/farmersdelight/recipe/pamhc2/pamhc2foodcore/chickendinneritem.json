@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "c:vegetables"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:chickendinneritem",
+    "count": 1
+  }
+}

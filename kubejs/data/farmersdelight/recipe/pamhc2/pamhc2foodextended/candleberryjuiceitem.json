@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:fruits/candleberry"
+    },
+    {
+      "tag": "c:fruits/candleberry"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:candleberryjuiceitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "drinks"
+}

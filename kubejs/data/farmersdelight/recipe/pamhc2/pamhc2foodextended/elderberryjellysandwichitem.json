@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:jellies/elderberryjelly"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:nutbutters"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:elderberryjellysandwichitem",
+    "count": 1
+  }
+}

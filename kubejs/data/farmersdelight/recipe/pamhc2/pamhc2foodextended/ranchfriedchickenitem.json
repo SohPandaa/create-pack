@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:rawchicken"
+    },
+    {
+      "tag": "c:cookingoil"
+    },
+    {
+      "tag": "c:batter"
+    },
+    {
+      "tag": "c:cream"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:ranchfriedchickenitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

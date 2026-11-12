@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:chocolatebar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:mintchocolatechipicecreamitem",
+    "count": 1
+  }
+}

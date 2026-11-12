@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:vegemiteitem"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:groiledcheesesandwichitem",
+    "count": 1
+  }
+}

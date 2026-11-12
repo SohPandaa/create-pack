@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:seeds"
+    },
+    {
+      "tag": "c:fruits"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:trailmixitem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

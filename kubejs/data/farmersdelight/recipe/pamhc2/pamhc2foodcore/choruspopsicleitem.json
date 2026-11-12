@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:juices/chorusjuice"
+    },
+    {
+      "tag": "c:ices"
+    },
+    {
+      "tag": "c:rods/wooden"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:choruspopsicleitem",
+    "count": 1
+  }
+}

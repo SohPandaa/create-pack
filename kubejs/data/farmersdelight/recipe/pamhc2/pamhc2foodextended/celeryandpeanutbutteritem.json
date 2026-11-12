@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/celery"
+    },
+    {
+      "tag": "c:nutbutters"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:celeryandpeanutbutteritem",
+    "count": 1
+  }
+}

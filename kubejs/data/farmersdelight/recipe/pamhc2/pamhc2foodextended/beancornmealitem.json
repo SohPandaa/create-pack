@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/bean"
+    },
+    {
+      "tag": "c:crops/corn"
+    },
+    {
+      "tag": "c:grain"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:beancornmealitem",
+    "count": 1
+  }
+}

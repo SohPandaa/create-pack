@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:condiments/hoisinsauce"
+    },
+    {
+      "tag": "c:crops/peanut"
+    },
+    {
+      "tag": "c:crops/garlic"
+    },
+    {
+      "tag": "c:crops/lime"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/cabbage"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:springrollitem",
+    "count": 1
+  }
+}

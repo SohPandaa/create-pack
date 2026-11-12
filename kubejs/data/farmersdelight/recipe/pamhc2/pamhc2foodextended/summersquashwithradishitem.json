@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/radish"
+    },
+    {
+      "tag": "c:crops/zucchini"
+    },
+    {
+      "tag": "c:crops/pumpkin"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:cookingoil"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:summersquashwithradishitem",
+    "count": 1
+  }
+}

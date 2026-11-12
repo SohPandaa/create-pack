@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "c:condiments/mayonaise"
+    },
+    {
+      "tag": "c:condiments/mustard"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:spices/saltandpepper"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:deviledeggitem",
+    "count": 1
+  }
+}

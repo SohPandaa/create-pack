@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:meatloafitem"
+    },
+    {
+      "tag": "c:bread"
+    },
+    {
+      "tag": "c:condiments/ketchup"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:meatloafsandwichitem",
+    "count": 1
+  }
+}

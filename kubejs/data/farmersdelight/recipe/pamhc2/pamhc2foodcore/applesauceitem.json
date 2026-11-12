@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/apple"
+    },
+    {
+      "tag": "c:crops/apple"
+    },
+    {
+      "tag": "c:sugar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:applesauceitem",
+    "count": 1
+  }
+}

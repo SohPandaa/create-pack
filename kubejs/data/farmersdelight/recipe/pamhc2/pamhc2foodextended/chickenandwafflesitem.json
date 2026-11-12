@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:wafflesitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:chickenandwafflesitem",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:groundmeats/groundpork"
+    },
+    {
+      "tag": "c:spices/saltandpepper"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:crops/mustardseeds"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gourmetporkpattyitem",
+    "count": 1
+  }
+}

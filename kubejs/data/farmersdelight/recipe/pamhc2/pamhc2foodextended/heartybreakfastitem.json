@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:boiledegg"
+    },
+    {
+      "tag": "c:toast"
+    },
+    {
+      "item": "pamhc2foodextended:potatocakesitem"
+    },
+    {
+      "item": "pamhc2foodextended:chocolatemilkitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:heartybreakfastitem",
+    "count": 1
+  }
+}

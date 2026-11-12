@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:rawbeef"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:friedegg"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:crops/pineapple"
+    },
+    {
+      "tag": "c:toast"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:beetburgeritem",
+    "count": 1
+  }
+}

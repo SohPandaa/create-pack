@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:groundmeats/groundbeef"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:crops/lettuce"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "tag": "c:condiments"
+    },
+    {
+      "tag": "c:bread"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:deluxecheeseburgeritem",
+    "count": 1
+  }
+}

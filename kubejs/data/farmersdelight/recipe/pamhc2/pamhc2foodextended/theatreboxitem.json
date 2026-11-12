@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:chocolatebar"
+    },
+    {
+      "tag": "c:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:popcornitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:theatreboxitem",
+    "count": 1
+  }
+}

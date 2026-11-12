@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:gritsitem"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "tag": "c:rawpork"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:southernstylebreakfastitem",
+    "count": 1
+  }
+}

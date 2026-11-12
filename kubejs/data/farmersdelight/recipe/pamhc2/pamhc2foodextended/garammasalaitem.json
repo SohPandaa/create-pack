@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:spices/blackpepper"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    },
+    {
+      "tag": "c:crops/spiceleaf"
+    },
+    {
+      "tag": "c:spices/groundnutmeg"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:garammasalaitem",
+    "count": 1
+  }
+}

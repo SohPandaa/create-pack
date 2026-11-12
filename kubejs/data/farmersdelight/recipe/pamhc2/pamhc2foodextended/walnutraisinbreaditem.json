@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:crops/walnut"
+    },
+    {
+      "item": "pamhc2foodextended:raisinsitem"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:spices/groundcinnamon"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:walnutraisinbreaditem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

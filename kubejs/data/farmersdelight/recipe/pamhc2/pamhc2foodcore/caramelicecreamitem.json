@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:icecream"
+    },
+    {
+      "tag": "c:caramel"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodcore:caramelicecreamitem",
+    "count": 1
+  }
+}

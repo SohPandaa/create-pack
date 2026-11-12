@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:gourmetbeefpattyitem"
+    },
+    {
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    },
+    {
+      "tag": "c:condiments/relish"
+    },
+    {
+      "tag": "c:crops/chilipepper"
+    },
+    {
+      "tag": "c:crops/tomato"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gourmetbeefburgeritem",
+    "count": 1
+  }
+}

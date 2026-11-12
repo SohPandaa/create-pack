@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:earlgreyteaitem"
+    },
+    {
+      "item": "pamhc2foodextended:cucumbersandwichitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:sundayhighteaitem",
+    "count": 1
+  }
+}

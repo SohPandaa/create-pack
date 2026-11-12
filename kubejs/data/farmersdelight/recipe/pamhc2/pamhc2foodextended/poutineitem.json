@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:friesitem"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:gravyitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:poutineitem",
+    "count": 1
+  }
+}

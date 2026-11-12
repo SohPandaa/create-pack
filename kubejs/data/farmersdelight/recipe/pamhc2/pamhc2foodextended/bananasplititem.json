@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:crops/banana"
+    },
+    {
+      "tag": "c:icecreams"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:nuts"
+    },
+    {
+      "tag": "c:chocolatebar"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:bananasplititem",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:gourmetporkpattyitem"
+    },
+    {
+      "item": "pamhc2foodextended:briochebunitem"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:leafyvegetables"
+    },
+    {
+      "tag": "c:crops/avocado"
+    },
+    {
+      "item": "pamhc2foodextended:friedonionsitem"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:gourmetporkburgeritem",
+    "count": 1
+  },
+  "cookingtime": 200,
+  "experience": 0.35,
+  "recipe_book_tab": "meals"
+}

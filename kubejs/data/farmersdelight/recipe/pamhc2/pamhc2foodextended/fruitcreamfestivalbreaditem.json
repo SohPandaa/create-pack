@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:festivalbreaditem"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:cream"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:fruitcreamfestivalbreaditem",
+    "count": 1
+  }
+}

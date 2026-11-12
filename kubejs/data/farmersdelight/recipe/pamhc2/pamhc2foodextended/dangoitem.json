@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "item": "pamhc2foodextended:mochiitem"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "pamhc2foodextended:dangoitem",
+    "count": 1
+  }
+}
