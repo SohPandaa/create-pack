@@ -1,0 +1,13 @@
+name = "Easy Wind Charges for Aeronautics"
+filename = "easy_wind_charges-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/InmkUV1K/versions/zenPMXnH/easy_wind_charges-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c06ffa3e09aa960a984c3ba3f11cffadf275bcfa9b5605edf902a340dd31fe47acc484e86981ca0862e086eea44dee3a16d083404ae9833f0bba5e34cc0780fb"
+
+[update]
+[update.modrinth]
+mod-id = "InmkUV1K"
+version = "zenPMXnH"

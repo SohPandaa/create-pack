@@ -1,0 +1,13 @@
+name = "OptiLeaves"
+filename = "OptiLeaves-neoforge-1.21.1-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ChDudAun/versions/8pJrU40v/OptiLeaves-neoforge-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "698df0d88718e1da17443f73e4be8d61ad2aab35d649b89384d711bc7ebcae7a681fcab899a3fb22da1c3c4eb6eb4532b9a58429978c4e799c149ea4fb5495e2"
+
+[update]
+[update.modrinth]
+mod-id = "ChDudAun"
+version = "8pJrU40v"

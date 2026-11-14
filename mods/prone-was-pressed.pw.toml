@@ -1,0 +1,13 @@
+name = "Prone was Pressed"
+filename = "prone_was_pressed-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "684be42d92dc90a5848d04fc685cc890485c1ff2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5685893
+project-id = 1095563

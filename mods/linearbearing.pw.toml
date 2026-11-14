@@ -1,0 +1,14 @@
+name = "Create: Linear Bearing"
+filename = "linearbearing-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZTwCjE7O/versions/kwNc5Cc6/linearbearing-1.2.6.jar"
+hash-format = "sha512"
+hash = "dbec333324e1ffcdc8e5db7aa0cbeae9221a95645b133bd2aad7d715e708b45c427b763e64f60a7047347cafe9ca27822cf74cf3beca8090075c56ce3a874ade"
+
+[update]
+[update.modrinth]
+mod-id = "ZTwCjE7O"
+version = "kwNc5Cc6"
+

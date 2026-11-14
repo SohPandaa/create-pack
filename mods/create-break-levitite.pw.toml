@@ -1,0 +1,13 @@
+name = "Create: Break Levitite"
+filename = "create-break_levitite-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gpii8MxN/versions/S73Jt1Fx/create-break_levitite-1.1.0.jar"
+hash-format = "sha512"
+hash = "fc168b5bac0b87ee92e7fde78c52cbed8f0f8646af738c1c54a5fe480d6f2b84f825f4f30aa16286bd533277a39f7e9b8ff74aa18299db1e1eb38c7eda715b8b"
+
+[update]
+[update.modrinth]
+mod-id = "Gpii8MxN"
+version = "S73Jt1Fx"

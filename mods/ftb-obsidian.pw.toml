@@ -1,0 +1,13 @@
+name = "FTB Obsidian"
+filename = "ftb-obsidian-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0474ada1b420e4659c1e34c3d59e0ac54da11aee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9331793
+project-id = 1448262

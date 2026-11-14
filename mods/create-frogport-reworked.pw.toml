@@ -1,0 +1,13 @@
+name = "Create: Frogport Reworked"
+filename = "create-frogport-reworked-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4vq7qIg/versions/VoV2MZoE/create-frogport-reworked-1.0.1.jar"
+hash-format = "sha512"
+hash = "fe7028420af2f8c1ec58968dfe8559f1423998d986c0d672a331ed962db2df24cc65a6953160b2c86a44446711b5d3481455990806b06b8729d4a575cb13e472"
+
+[update]
+[update.modrinth]
+mod-id = "R4vq7qIg"
+version = "VoV2MZoE"

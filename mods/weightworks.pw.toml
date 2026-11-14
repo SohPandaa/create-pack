@@ -1,0 +1,13 @@
+name = "Create: Aeronautics Weightworks"
+filename = "gws_aeronautics_copycats-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mwMQRCA/versions/CFwGl4Gr/gws_aeronautics_copycats-1.0.1.jar"
+hash-format = "sha512"
+hash = "e6b9850bdda20f447b32030f378e46a2dcb04fa708fa1960b376c63a85e32a5cb9663838af6fcb3eed991792e00f5cc148b51d7c9d19e547c580ba704c9e77bd"
+
+[update]
+[update.modrinth]
+mod-id = "7mwMQRCA"
+version = "CFwGl4Gr"

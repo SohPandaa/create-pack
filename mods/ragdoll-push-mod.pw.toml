@@ -1,0 +1,13 @@
+name = "Ragdoll Push Mod"
+filename = "ragdollpushmod-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iyfqcjwd/versions/3qvK5kxU/ragdollpushmod-1.1.jar"
+hash-format = "sha512"
+hash = "43370b8a0a639eed8e91cb1b034146fd99320c2605be44f451b3e08662939b534cf88508d7438e6c623925cf0dccc4e414e4709e3e465e57ea9a1949207544f9"
+
+[update]
+[update.modrinth]
+mod-id = "Iyfqcjwd"
+version = "3qvK5kxU"

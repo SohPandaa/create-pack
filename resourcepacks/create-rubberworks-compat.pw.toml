@@ -1,0 +1,13 @@
+name = "Create Rubberworks Compat"
+filename = "CreateRubberworks_Compat_v7.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "42f562a4a5d0b9c5af9e97e2296dfa48b95669cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9205818
+project-id = 1540335

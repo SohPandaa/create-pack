@@ -1,0 +1,13 @@
+name = "Saddle Backport"
+filename = "saddle-crafting-backport-v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NF5MRD2M/versions/vETyRlXF/saddle-crafting-backport-v1.0.1.jar"
+hash-format = "sha512"
+hash = "14912d3301e0a4f8936a12a8ba5907245d67958d2e7f5d127d9816cb447f2843c4da14aff03d622f58808a2bdb2e9025179d6441d636741e4534649daf51d3fd"
+
+[update]
+[update.modrinth]
+mod-id = "NF5MRD2M"
+version = "vETyRlXF"

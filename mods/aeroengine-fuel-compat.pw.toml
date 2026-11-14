@@ -1,0 +1,13 @@
+name = "AeroEngine fuel compat"
+filename = "aeroengine_fuel_compat-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RNUSzf19/versions/iQWqNLQY/aeroengine_fuel_compat-0.0.2.jar"
+hash-format = "sha512"
+hash = "fdc1c9cc893d7494eab6506f4c160b3b67973b95fbb390ba07c1cfdad18d96cdf8038baf8f07918ae9606e415c19047354078327758a4c63c4266ca7471bc699"
+
+[update]
+[update.modrinth]
+mod-id = "RNUSzf19"
+version = "iQWqNLQY"

@@ -1,0 +1,13 @@
+name = "Craftable Name Tag"
+filename = "craftablenametag-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mi57UBwo/versions/H7hEJ3Wt/craftablenametag-1.21.1-0.1.jar"
+hash-format = "sha512"
+hash = "3f3c258ae3c4f8c8f392721c23e9729bff3d6345face96a90b6935a4b14d0a1146f2eac52bc2ac4361da42e0dbcf334b91cf0256bfde07da3491d4a69eabd6f4"
+
+[update]
+[update.modrinth]
+mod-id = "mi57UBwo"
+version = "H7hEJ3Wt"

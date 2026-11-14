@@ -1,0 +1,13 @@
+name = "Quick Skin"
+filename = "Quick-Skin-NeoForge-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/BCgTWH2B/Quick%20Skin%20-%20NeoForge%20-%201.21.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "887ef786df2f0fd998a750568e43f8d87b3acd5ab53f9c31922ea74021b98526aa70ad42f48f89466637829ab643611b9cabf37c86c6869cc8423be61f973885"
+
+[update]
+[update.modrinth]
+mod-id = "zAIE84Ch"
+version = "BCgTWH2B"

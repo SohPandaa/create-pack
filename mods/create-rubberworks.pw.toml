@@ -1,0 +1,13 @@
+name = "Create: Rubberworks"
+filename = "rubberworks-neoforge-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v2rl0YB8/versions/OrJgSgjC/rubberworks-neoforge-1.21.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "074f519e9f16ceeca6118aac89a2c2bb8db743ba332ea49af52567b1b0cd03304dd50478d7d845c5302ea4c9726a3aaa464b69e31443073c87b533fcdd09b798"
+
+[update]
+[update.modrinth]
+mod-id = "v2rl0YB8"
+version = "OrJgSgjC"

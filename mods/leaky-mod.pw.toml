@@ -1,0 +1,13 @@
+name = "leaky mod"
+filename = "leaky-1.21-3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92400cf0eed854e6e0035a5be5eff8e6bc2e511e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9386562
+project-id = 856906

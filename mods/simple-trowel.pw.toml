@@ -1,0 +1,13 @@
+name = "Simple Trowel"
+filename = "simple_trowel-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46038e88085c3c20790bd4b98c372b81a5bdcff6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8670738
+project-id = 1653961

@@ -1,0 +1,13 @@
+name = "Supplementaries Compat"
+filename = "Supplementaries Compat 1.2 [1.21.1+].zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a1a36e9f8952926dc97f10eaeb5355e22fa52b34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8992017
+project-id = 1318588
