@@ -175,14 +175,6 @@ file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "d549c144f099eb628e2aea624dc3a772ecad58a755ef621454ed5aeb655621c8"
-
-[[files]]
 file = "config/coasterfins-server.toml"
 hash = "fe81c1ddd9cf703a633e479b56cbcff3fa6ad971bb45e77a6ac5d646c90fbc9d"
 
@@ -9632,11 +9624,6 @@ metafile = true
 [[files]]
 file = "mods/chunksmith.pw.toml"
 hash = "7bcf4d582af0a88377a5d1f3b64febc9fef152163e56f5d828d6dfa963278ba1"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
