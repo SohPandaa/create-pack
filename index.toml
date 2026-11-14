@@ -27,6 +27,10 @@ file = "config/solcarrot-server.toml"
 hash = "04e9884ccd568e9736f44f408647f31c0c2e28a9e60e07fca1e3be0b09a2e826"
 
 [[files]]
+file = "config/tectonic.json"
+hash = "f8159cd49fec4f6faefa98cff420db36861d71bba7aaa0a55c898b860da75f09"
+
+[[files]]
 file = "kubejs/data/beautify/loot_table/blocks/acacia_trellis.json"
 hash = "e38fea2eb435ab0ad85c39f98fa804bfadb622b382f6f7dd4621de7cac36c221"
 
