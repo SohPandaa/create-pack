@@ -163,6 +163,10 @@ file = "config/bwncr-common.toml"
 hash = "a8d9256245e6a4a9ef9cd19db22432e7dccf447fa7ba803a70ebd23624e7d21b"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "26830dcae684fb1c272e1406dcc7a848e97e033ef8f05c075ce1539466f202c7"
+
+[[files]]
 file = "config/cbc_at-server.toml"
 hash = "a1e10ddc8e53b5979307cecc089e0673c87c1af40ad2de0831de6ef2a90e899c"
 
