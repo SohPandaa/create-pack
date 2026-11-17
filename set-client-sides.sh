@@ -8,6 +8,7 @@ client_mods=(
   irisshaders
   continuity
   colorwheel
+  colorwheel-patcher
   controlling
   searchables
   mouse-tweaks
