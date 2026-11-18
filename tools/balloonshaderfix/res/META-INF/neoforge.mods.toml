@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "balloonshaderfix"
+version = "1.0.0"
+displayName = "Aeronautics Balloon Shader Fix"
+description = "Skips Create Aeronautics' hot-air balloon heat overlay while an Iris shader pack is active, which otherwise shows as a ghost copy of the balloon."
+
+[[mixins]]
+config = "balloonshaderfix.mixins.json"

@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.pandaa.balloonshaderfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ClientBalloonEffectRendererMixin"]
+}

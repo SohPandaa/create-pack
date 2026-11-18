@@ -9481,6 +9481,10 @@ hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
 
 [[files]]
+file = "mods/balloonshaderfix-1.0.0.jar"
+hash = "a53cb513a2287578a03397932f215674337d8dbcf8ec666de5b73712ed2808ac"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "0f6b24d697903dc261c881c4a736ec57c57ed5384f23d77ca9f6cec1e954d559"
 metafile = true
