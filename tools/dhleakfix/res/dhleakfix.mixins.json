@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.pandaa.dhleakfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["AbstractDhRepoMixin"]
+}

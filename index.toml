@@ -10265,6 +10265,10 @@ hash = "735622c7d6324d76352409c270d8068e3c2613411a8ceff56fab8625e4b3a484"
 metafile = true
 
 [[files]]
+file = "mods/dhleakfix-1.0.0.jar"
+hash = "aaebbd11a4675cd133089d3dfb363d733a842f8b10d8db54f964c3df1067743a"
+
+[[files]]
 file = "mods/diegesis.pw.toml"
 hash = "cf25480b6f6207fff8b1d60b041ff8b7a03717a39fcce734a7c4139fac861a75"
 metafile = true

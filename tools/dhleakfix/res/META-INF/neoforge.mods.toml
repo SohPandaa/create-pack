@@ -1,0 +1,19 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "dhleakfix"
+version = "1.0.0"
+displayName = "Distant Horizons Connection Leak Fix"
+description = "Closes the SQLite connection Distant Horizons 3.3.x opens when its setup PRAGMA fails, which it otherwise leaks on every retry (native memory grows until the system runs out, e.g. inside Flashback replays)."
+
+[[dependencies.dhleakfix]]
+modId = "distanthorizons"
+type = "optional"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "dhleakfix.mixins.json"
